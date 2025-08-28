@@ -1,4 +1,4 @@
-#F1FTYGRAM - Instagram Clone App
+F1FTYGRAM v1.28
 
 ## Installation Guide
 
